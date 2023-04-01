@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Nova",
+        "Email": "nova09@gmail.com",
+        "Phone_No": "01984237651",
+        "Address": "20/1, Samshur Rahman Road, Khulna",
+        "C_Id": 1,
+        "apt_Id": 500
+    },
+    {
+        "Name": "Mahmud Asef",
+        "Email": "asef88@yahoo.com",
+        "Phone_No": "01657223309",
+        "Address": "22/1, Mohammadpur, Dhaka",
+        "C_Id": 2,
+        "apt_Id": 510
+    },
+    {
+        "Name": "Salsabil",
+        "Email": "salsa86@gmail.com",
+        "Phone_No": "01667098124",
+        "Address": "Bashundhara C-Block, Road-5, Dhaka",
+        "C_Id": 3,
+        "apt_Id": 520
+    }
+]

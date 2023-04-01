@@ -1,0 +1,70 @@
+[
+    {
+        "User_Name": "sarzila16",
+        "Password": "N!Galit29",
+        "Name": "Sarzila Halum",
+        "Email": "sarzila22@gmail.com",
+        "Phone_No": "01521706798",
+        "Address": "15\/35 , Bailey Square Officers' Quarter, Dhaka",
+        "Hire_Date": "2021-06-29",
+        "Image": "dp\/IMG-20191029-WA0006.jpg",
+        "Id": 101
+    },
+    {
+        "User_Name": "sara30",
+        "Password": "ssara#N0V",
+        "Name": "Sara Cat",
+        "Email": "ssara_30@yahoo.com",
+        "Phone_No": "01667234091",
+        "Address": "Sector-11, Banani, Dhaka",
+        "Hire_Date": "2022-01-11",
+        "Image": "dp\/sara.jpg",
+        "Id": 102
+    },
+    {
+        "User_Name": "mushi_mangoBoy",
+        "Password": "M28$Dec4",
+        "Name": "Musfiq Rahman",
+        "Email": "musfiq4@yahoo.com",
+        "Phone_No": "01944376002",
+        "Address": "Sector-12, Uttara, Dhaka",
+        "Hire_Date": "2022-01-11",
+        "Image": "dp\/IMG-20211222-WA0022.jpg",
+        "Id": 103
+    },
+    {
+        "User_Name": "k29_um",
+        "Password": "o0ppA#22",
+        "Name": "Kumkum Panda",
+        "Email": "arkumkum29@gmail.com",
+        "Phone_No": "01687112243",
+        "Address": "Japan Garden, Dhanmondi, Dhaka",
+        "Hire_Date": "2022-03-10",
+        "Image": "dp\/IMG-20211029-WA0000.jpg",
+        "Id": 104
+    },
+    {
+        "User_Name": "lithaxor",
+        "Password": "h24xoR#1",
+        "Name": "Hasan Ahamed",
+        "Email": "lit_haxor@gmail.com",
+        "Phone_No": "01529028977",
+        "Address": "Road-27, Jatrabari, Dhaka",
+        "Hire_Date": "2020-02-20",
+        "Image": "dp\/61972756_2273129646259104_280511495287078912_n.jpg",
+        "Id": 105
+    },
+    {
+        "User_Name": null,
+        "Password": null,
+        "Name": null,
+        "Id": 106,
+        "Email": null,
+        "Phone_No": null,
+        "Address": null,
+        "Hire_Date": null,
+        "Image": "images\/images.png",
+        "C_Id": 1,
+        "apt_Id": 10
+    }
+]
